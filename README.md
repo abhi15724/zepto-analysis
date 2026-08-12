@@ -16,16 +16,16 @@ That last question turned out to matter more than any other finding.
 ## Screenshots
 
 **Welcome screen** — Zepto-branded landing page with the entry point into the dashboard.
-![Welcome screen](Welcome screen.png)
+![Welcome screen](Welcomescreen.png)
 
 **Overview tab** — KPI cards, category slicer, revenue/SKU-share charts, top products table.
-![Overview tab](screenshots/02_overview.png)
+![Overview tab](02_overview.png)
 
 **Pricing & Discounts tab** — price-band revenue, discount distribution, sortable category detail table.
-![Pricing tab](screenshots/03_pricing.png)
+![Pricing tab](03_pricing.png)
 
 **Stock & Data Quality tab** — OOS rate by category, the duplication catch, and written insights.
-![Data quality tab](screenshots/04_quality.png)
+![Data quality tab](04_quality.png)
 
 ## The sequence: profile → SQL → Python → Excel → visuals → dashboard
 
