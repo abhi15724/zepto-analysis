@@ -1,0 +1,194 @@
+--- Q1 ---
+                 Category  sku_count  total_potential_revenue  avg_selling_price
+0                Munchies        514                 337369.0             140.83
+1      Cooking Essentials        514                 337369.0             140.83
+2           Personal Care        343                 270039.0             189.90
+3             Paan Corner        343                 270039.0             189.90
+4           Packaged Food        388                 224385.0             141.08
+5    Ice Cream & Desserts        388                 224385.0             141.08
+6    Chocolates & Candies        388                 224385.0             141.08
+7         Home & Cleaning        193                 122661.0             142.18
+8        Health & Hygiene         97                  64180.0             145.86
+9   Dairy, Bread & Batter        129                  55051.0             103.73
+10              Beverages        129                  55051.0             103.73
+11               Biscuits        147                  25007.6              52.78
+12     Meats, Fish & Eggs         63                  20693.0             164.10
+13    Fruits & Vegetables         93                  10846.0              39.84
+
+--- Q2 ---
+                 Category   revenue  pct_of_total  running_total  revenue_rank
+0                Munchies  337369.0         15.05       674738.0             1
+1      Cooking Essentials  337369.0         15.05       674738.0             1
+2           Personal Care  270039.0         12.05      1214816.0             3
+3             Paan Corner  270039.0         12.05      1214816.0             3
+4           Packaged Food  224385.0         10.01      1887971.0             5
+5    Ice Cream & Desserts  224385.0         10.01      1887971.0             5
+6    Chocolates & Candies  224385.0         10.01      1887971.0             5
+7         Home & Cleaning  122661.0          5.47      2010632.0             8
+8        Health & Hygiene   64180.0          2.86      2074812.0             9
+9   Dairy, Bread & Batter   55051.0          2.46      2184914.0            10
+10              Beverages   55051.0          2.46      2184914.0            10
+11               Biscuits   25007.6          1.12      2209921.6            12
+12     Meats, Fish & Eggs   20693.0          0.92      2230614.6            13
+13    Fruits & Vegetables   10846.0          0.48      2241460.6            14
+
+--- Q3 ---
+                 Category  total_skus  oos_skus  oos_rate_pct
+0                Biscuits         147        42         28.57
+1   Dairy, Bread & Batter         129        28         21.71
+2               Beverages         129        28         21.71
+3      Meats, Fish & Eggs          63        12         19.05
+4        Health & Hygiene          97        13         13.40
+5                Munchies         514        64         12.45
+6      Cooking Essentials         514        64         12.45
+7           Packaged Food         388        45         11.60
+8    Ice Cream & Desserts         388        45         11.60
+9    Chocolates & Candies         388        45         11.60
+10        Home & Cleaning         193        19          9.84
+11    Fruits & Vegetables          93         6          6.45
+12          Personal Care         343        21          6.12
+13            Paan Corner         343        21          6.12
+
+--- Q4 ---
+                 Category                                                                           name  selling_price_rs  availableQuantity  potential_revenue
+0               Beverages                                                          Amulya Dairy Whitener             372.0                  4             1488.0
+1               Beverages                                                      Amul Butter - Pasteurised             240.0                  6             1440.0
+2               Beverages                                                            Amul Cheese - Block             240.0                  6             1440.0
+3               Beverages                                                   Amul Unsalted Cooking Butter             238.0                  6             1428.0
+4               Beverages                                                      Go Cheese Processed Block             237.0                  6             1422.0
+5                Biscuits                                                        Unibic Assorted Cookies             137.0                  6              822.0
+6                Biscuits                                                 Karachi Bakery Cashew Biscuits             199.0                  4              796.0
+7                Biscuits                                                                Lotte Choco Pie             120.0                  6              720.0
+8                Biscuits                                    Britannia Good Day Cashew Cookies Pack Of 6             108.0                  6              648.0
+9                Biscuits                                       Britannia Good Day Cashew Cookies Packet             105.6                  6              633.6
+10   Chocolates & Candies                                        Nestle Nestle Nan Pro Follow-Up Formula             650.0                  6             3900.0
+11   Chocolates & Candies                                        Bagrry's Fruit Fibre Muesli Mixed Fruit             595.0                  5             2975.0
+12   Chocolates & Candies                                   Kelloggs Chocos Protein And Fibre Of 1 Roti             444.0                  6             2664.0
+13   Chocolates & Candies                                  Bagrrys Fruit and Nut Muesli with Cranberries             499.0                  5             2495.0
+14   Chocolates & Candies                         Kellogg's Crunchy Fruit & Nut Breakfast Cereals Muesli             401.0                  6             2406.0
+15     Cooking Essentials                                            Borges Extra Light Olive Oil Bottle            1399.0                  6             8394.0
+16     Cooking Essentials                                        Praakritik Natural Desi Gir Cow A2 Ghee            1305.0                  6             7830.0
+17     Cooking Essentials                                                             Saffola Gold (Jar)            1240.0                  6             7440.0
+18     Cooking Essentials                                              Dhara Kachi Ghani Mustard Oil Jar            1143.0                  6             6858.0
+19     Cooking Essentials                                             Fortune Rice Bran Health Oil (Jar)            1039.0                  6             6234.0
+20  Dairy, Bread & Batter                                                          Amulya Dairy Whitener             372.0                  4             1488.0
+21  Dairy, Bread & Batter                                                      Amul Butter - Pasteurised             240.0                  6             1440.0
+22  Dairy, Bread & Batter                                                            Amul Cheese - Block             240.0                  6             1440.0
+23  Dairy, Bread & Batter                                                   Amul Unsalted Cooking Butter             238.0                  6             1428.0
+24  Dairy, Bread & Batter                                                      Go Cheese Processed Block             237.0                  6             1422.0
+25    Fruits & Vegetables                                                                  Apple Kinnaur             119.0                  6              714.0
+26    Fruits & Vegetables                                                               Apple Royal Gala             159.0                  3              477.0
+27    Fruits & Vegetables                                                               Apple Washington             149.0                  3              447.0
+28    Fruits & Vegetables                                                         Avocado Indian Premium             149.0                  3              447.0
+29    Fruits & Vegetables                                                                   Apple Shimla             119.0                  3              357.0
+30       Health & Hygiene                                           Whisper Ultra Clean Wings XL+  Pouch             415.0                  6             2490.0
+31       Health & Hygiene                                             Organic India Organic Chyawanprash             396.0                  6             2376.0
+32       Health & Hygiene                                              Dabur Chyawanprakash - Sugar Free             385.0                  6             2310.0
+33       Health & Hygiene                                                             Dabur Chyawanprash             338.0                  6             2028.0
+34       Health & Hygiene                                           Whisper Ultra Soft XL+ Sanitary Pads             323.0                  6             1938.0
+35        Home & Cleaning                                Ariel Matic Front Load Detergent Washing Powder             680.0                  6             4080.0
+36        Home & Cleaning                     Lizol Double Concentrate Disinfectant Floor Cleaner Citrus             598.0                  6             3588.0
+37        Home & Cleaning                                        Scotch Brite Multi-Purpose Sponge Wipes             581.0                  6             3486.0
+38        Home & Cleaning                                   Surf Excel Matic Front Load Detergent Powder             507.0                  6             3042.0
+39        Home & Cleaning                                                      Surf Excel Matic Top Load             649.0                  4             2596.0
+40   Ice Cream & Desserts                                        Nestle Nestle Nan Pro Follow-Up Formula             650.0                  6             3900.0
+41   Ice Cream & Desserts                                        Bagrry's Fruit Fibre Muesli Mixed Fruit             595.0                  5             2975.0
+42   Ice Cream & Desserts                                   Kelloggs Chocos Protein And Fibre Of 1 Roti             444.0                  6             2664.0
+43   Ice Cream & Desserts                                  Bagrrys Fruit and Nut Muesli with Cranberries             499.0                  5             2495.0
+44   Ice Cream & Desserts                         Kellogg's Crunchy Fruit & Nut Breakfast Cereals Muesli             401.0                  6             2406.0
+45     Meats, Fish & Eggs                                           Godrej Yummiez Chicken Punjabi Tikka             266.0                  6             1596.0
+46     Meats, Fish & Eggs                                       Godrej Real Good Chicken Breast Boneless             248.0                  6             1488.0
+47     Meats, Fish & Eggs                                           Yummiez Chicken Garlic Fingers Pouch             250.0                  5             1250.0
+48     Meats, Fish & Eggs                                         Godrej Real Good Chicken Whole Pre-Cut             270.0                  4             1080.0
+49     Meats, Fish & Eggs                                    Godrej Yummiez Chicken Lucknowi Seekh Kebab             234.0                  4              936.0
+50               Munchies                                            Borges Extra Light Olive Oil Bottle            1399.0                  6             8394.0
+51               Munchies                                        Praakritik Natural Desi Gir Cow A2 Ghee            1305.0                  6             7830.0
+52               Munchies                                                             Saffola Gold (Jar)            1240.0                  6             7440.0
+53               Munchies                                              Dhara Kachi Ghani Mustard Oil Jar            1143.0                  6             6858.0
+54               Munchies                                             Fortune Rice Bran Health Oil (Jar)            1039.0                  6             6234.0
+55            Paan Corner                                            Pampers Premium Care Pants - Medium             899.0                  6             5394.0
+56            Paan Corner  L'Oreal Paris Excellence Creme Hair Color, 3 Dark Brown/Natural Darkest Brown             620.0                  6             3720.0
+57            Paan Corner              L'Oreal Paris Excellence Creme Hair Color, 4.25 Aishwarya's Brown             620.0                  6             3720.0
+58            Paan Corner                                               Gillette Mach 3 Turbo Cartridges             578.0                  6             3468.0
+59            Paan Corner                                    Pampers All Round Protection Pants - Medium             575.0                  6             3450.0
+60          Packaged Food                                        Nestle Nestle Nan Pro Follow-Up Formula             650.0                  6             3900.0
+61          Packaged Food                                        Bagrry's Fruit Fibre Muesli Mixed Fruit             595.0                  5             2975.0
+62          Packaged Food                                   Kelloggs Chocos Protein And Fibre Of 1 Roti             444.0                  6             2664.0
+63          Packaged Food                                  Bagrrys Fruit and Nut Muesli with Cranberries             499.0                  5             2495.0
+64          Packaged Food                         Kellogg's Crunchy Fruit & Nut Breakfast Cereals Muesli             401.0                  6             2406.0
+65          Personal Care                                            Pampers Premium Care Pants - Medium             899.0                  6             5394.0
+66          Personal Care  L'Oreal Paris Excellence Creme Hair Color, 3 Dark Brown/Natural Darkest Brown             620.0                  6             3720.0
+67          Personal Care              L'Oreal Paris Excellence Creme Hair Color, 4.25 Aishwarya's Brown             620.0                  6             3720.0
+68          Personal Care                                               Gillette Mach 3 Turbo Cartridges             578.0                  6             3468.0
+69          Personal Care                                    Pampers All Round Protection Pants - Medium             575.0                  6             3450.0
+
+--- Q5 ---
+                 Category  avg_discount_pct  max_discount_pct  zero_discount_skus
+0     Fruits & Vegetables             15.46              23.0                   0
+1      Meats, Fish & Eggs             11.03              50.0                  14
+2           Packaged Food              8.32              50.0                 132
+3    Ice Cream & Desserts              8.32              50.0                 132
+4    Chocolates & Candies              8.32              50.0                 132
+5                Biscuits              8.24              51.0                  53
+6        Health & Hygiene              8.05              50.0                  25
+7                Munchies              7.16              50.0                 139
+8   Dairy, Bread & Batter              7.16              50.0                  47
+9      Cooking Essentials              7.16              50.0                 139
+10              Beverages              7.16              50.0                  47
+11          Personal Care              6.24              45.0                 134
+12            Paan Corner              6.24              45.0                 134
+13        Home & Cleaning              5.70              18.0                  49
+
+--- Q6 ---
+       price_band  sku_count  revenue_in_band
+0  1. Under Rs 50        786          86868.0
+1    2. Rs 50-149       1671         621556.6
+2   3. Rs 150-299        972         908875.0
+3   4. Rs 300-499        188         312175.0
+4      5. Rs 500+        112         311986.0
+
+--- Q7 ---
+               Category  avg_discount_pct   revenue
+0         Packaged Food              8.32  224385.0
+1  Ice Cream & Desserts              8.32  224385.0
+2  Chocolates & Candies              8.32  224385.0
+3      Health & Hygiene              8.05   64180.0
+4              Biscuits              8.24   25007.6
+5    Meats, Fish & Eggs             11.03   20693.0
+6   Fruits & Vegetables             15.46   10846.0
+
+--- Q8 ---
+                                       name            Category  selling_price_rs  availableQuantity  potential_revenue
+0       Borges Extra Light Olive Oil Bottle  Cooking Essentials            1399.0                  6             8394.0
+1       Borges Extra Light Olive Oil Bottle            Munchies            1399.0                  6             8394.0
+2   Praakritik Natural Desi Gir Cow A2 Ghee  Cooking Essentials            1305.0                  6             7830.0
+3   Praakritik Natural Desi Gir Cow A2 Ghee            Munchies            1305.0                  6             7830.0
+4                        Saffola Gold (Jar)  Cooking Essentials            1240.0                  6             7440.0
+5                        Saffola Gold (Jar)            Munchies            1240.0                  6             7440.0
+6         Dhara Kachi Ghani Mustard Oil Jar  Cooking Essentials            1143.0                  6             6858.0
+7         Dhara Kachi Ghani Mustard Oil Jar            Munchies            1143.0                  6             6858.0
+8        Fortune Rice Bran Health Oil (Jar)  Cooking Essentials            1039.0                  6             6234.0
+9        Fortune Rice Bran Health Oil (Jar)            Munchies            1039.0                  6             6234.0
+10       Dhara Filtered Groundnut Oil (Jar)  Cooking Essentials            1035.0                  6             6210.0
+11       Dhara Filtered Groundnut Oil (Jar)            Munchies            1035.0                  6             6210.0
+12                     Fortune Soyabean Oil  Cooking Essentials             999.0                  6             5994.0
+13                     Fortune Soyabean Oil            Munchies             999.0                  6             5994.0
+14  Dhara Health Refined Sun Flower Oil Jar  Cooking Essentials             984.0                  6             5904.0
+
+--- Q9 ---
+                                                            name             Category  weightInGms  selling_price_rs  price_per_100g
+0                                      Vicks Cough Drops Menthol     Health & Hygiene         1160              20.0            1.72
+1                                                          Onion  Fruits & Vegetables         3000              57.0            1.90
+2                                        Aashirvaad Iodised Salt   Cooking Essentials         1000              19.0            1.90
+3                                        Aashirvaad Iodised Salt             Munchies         1000              19.0            1.90
+4                                                          Onion  Fruits & Vegetables         1000              21.0            2.10
+5                                                      Tata Salt   Cooking Essentials         1000              24.0            2.40
+6                                                      Tata Salt             Munchies         1000              24.0            2.40
+7  Shubh kart - Nirmal sugandhi mogra wet dhoop zipper 20 sticks      Home & Cleaning         1160              28.0            2.41
+8                                                       Beetroot  Fruits & Vegetables          500              13.0            2.60
+9                                                         Potato  Fruits & Vegetables         3000              84.0            2.80
+
+--- Q10 ---
+   total_skus  categories  total_potential_revenue  overall_oos_rate  avg_discount_pct
+0        3729          14                2241460.6             12.15              7.62
+
