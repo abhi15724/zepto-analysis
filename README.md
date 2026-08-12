@@ -16,7 +16,7 @@ That last question turned out to matter more than any other finding.
 ## Screenshots
 
 **Welcome screen** — Zepto-branded landing page with the entry point into the dashboard.
-![Welcome screen](screenshots/01_welcome.png)
+![Welcome screen](Welcome screen.png)
 
 **Overview tab** — KPI cards, category slicer, revenue/SKU-share charts, top products table.
 ![Overview tab](screenshots/02_overview.png)
